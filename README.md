@@ -4,5 +4,5 @@
 
 Two databases are used here namely CK+ and fer2013 for buliding a supervised deep learning model using Convolution Neural networks.
 
-You can easily push the well described .ipynb file to view the source code.
+You can easily pull or clone the well described .ipynb file to view the source code.
 This code was written and modified on google colab.
